@@ -1,5 +1,5 @@
 //Diego Cuevas
-//This program show a list of numbers from 100 to 1.
+//This program shows a list of numbers from 100 to 1.
 #include <iostream>
 using namespace std;
 

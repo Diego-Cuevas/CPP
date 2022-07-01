@@ -1,5 +1,5 @@
 //Diego Cuevas
-//This program show a list of numbers from 1 to 100 using for loop.
+//This program shows a list of numbers from 1 to 100 using for loop.
 #include <iostream>
 using namespace std;
 
