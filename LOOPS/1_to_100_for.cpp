@@ -5,9 +5,7 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
 
-    int n = 100;
-
-    for (int i = 1; i <= n; i++)
+    for (int i = 1; i <= 100; i++)
     {
         cout << i << endl;
     }
