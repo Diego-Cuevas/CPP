@@ -1,5 +1,5 @@
 //Diego Cuevas
-/*this program asks the user to enter 10 numbers, then all of
+/*This program asks the user to enter 10 numbers, then all of
 these must be stored in an array to finally show on the screen
 the addition, subtraction, multiplication and division of all
 the elements.*/
