@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
     
     cout << "Matrix 1 | ";
 
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 3; i++) //Print matrix 1
     {
         for (int j = 0; j < 3; j++)
         {
@@ -30,7 +30,7 @@ int main(int argc, char *argv[]) {
 
     cout << endl << "Matrix 2 | ";
     
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 3; i++) //Print matrix 2
     {
         for (int j = 0; j < 3; j++)
         {
