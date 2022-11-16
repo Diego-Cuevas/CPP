@@ -7,7 +7,7 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {   
-    int averages[10][10] = {{ 0, 0}, { 1, 0}, { 2, 0}, { 3, 0}, { 4, 0}, { 5, 0}, { 6, 0}, { 7, 0}, { 8, 0}, { 9, 0}};
+    int averages[10][3] = {{ 0, 0}, { 1, 0}, { 2, 0}, { 3, 0}, { 4, 0}, { 5, 0}, { 6, 0}, { 7, 0}, { 8, 0}, { 9, 0}};
     char names[10][15];
     
     for (int i = 0; i < 10; i++)

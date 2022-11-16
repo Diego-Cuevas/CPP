@@ -45,7 +45,7 @@ int main(int argc, char *argv[]) {
         cout << "The final salary is: $" << salary << endl;
         break;
     default:
-        cout << "This category doesn't exist."
+        cout << "This category doesn't exist.";
         break;
     }
     
