@@ -30,11 +30,11 @@ int main(int argc, char const *argv[])
     
     if (flag == 'T')
     {
-        cout << "The number " << search << " has founded in position " << center << endl;
+        cout << "The number " << search << " has been founded in position " << center << endl;
     }
     else
     {
-        cout << "The number " << search << " hasn't founded." << endl;
+        cout << "The number " << search << " hasn't been founded." << endl;
     }
 
     return 0;
