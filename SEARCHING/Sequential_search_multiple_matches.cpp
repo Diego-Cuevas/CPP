@@ -26,12 +26,12 @@ int main(int argc, char const *argv[])
     {
         if (flag[j] == 'T')
         {
-            cout << "The number " << search << " has founded in position " << j << endl;
+            cout << "The number " << search << " has been founded in position " << j << endl;
             i++;
         }
     }
     
-    cout << "The number " << search << " has founded: " << i << " times." << endl;
+    cout << "The number " << search << " has been founded: " << i << " times." << endl;
     
     return 0;
 }
