@@ -28,7 +28,5 @@ int main(int argc, char const *argv[])
         cout << "The number " << search << " hasn't founded." << endl;
     }
     
-    
-    
     return 0;
 }
