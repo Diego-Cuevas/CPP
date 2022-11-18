@@ -20,7 +20,6 @@ struct Register
     Birth birth;
 };
 
-
 int main(int argc, char const *argv[])
 {   
     Register new_register;
